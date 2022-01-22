@@ -1,5 +1,5 @@
 #CIIC 3015 Project 2 (2021)
-## Made by Pedro Matos and Ivanier Bellido
+## Made by Pedro Matos
 
 The project is to   write   an   interactive   simulation  text   adventure   game  of   someone   who   comes   home   and   wants   to   go   to   sleep. 
 If   the   user   manages   to   fall   asleep,   they   win!   The   simulation   works   as   follows:
